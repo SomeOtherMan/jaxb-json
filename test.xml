@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<group>
+    <name>firstGroup</name>
+    <members>
+        <person>
+            <lastName>Ivanov</lastName>
+            <firstName>Ivan</firstName>
+            <birthDate>01/01/1970</birthDate>
+        </person>
+        <person>
+            <lastName>Alex</lastName>
+            <firstName>Sik</firstName>
+            <birthDate>20/03/1980</birthDate>
+        </person>
+    </members>
+</group>
